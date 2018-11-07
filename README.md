@@ -9,13 +9,13 @@ Between October 8-11th, 18F’s Vermont consulting team visited with the State o
 - Vermont shared their current module structure and how auth may fit into existing work
 
 ### Staffing
-- We emphasised the agile way of working on one thing at a time vs. all the things at the same time.
-- We emphasised the need for a dedicated Vermont team if this work moves forward. 
+- We emphasized the agile way of working on one thing at a time vs. all the things at the same time.
+- We emphasized the need for a dedicated Vermont team if this work moves forward. 
 
 ## Things We learned
 ### Authentication
-- Cass flagged that spinning up a new module for authentication may require approval and would be a challenge to staff to introduce IAM as a new body of work. 
-- Cass and Thani suggested that this work could possibly be a part of the ongoing customer portal work as authentication would be a key component of that work moving forward
+- Program Sponsor flagged that spinning up a new module for authentication may require approval and would be a challenge to staff to introduce IAM as a new body of work. 
+- Program Sponsor and Deputy Director of Operations (HAEEU) suggested that this work could possibly be a part of the ongoing customer portal work as authentication would be a key component of that work moving forward
 
 ### Staffing
 - We heard concerns about staffing and availability. 
